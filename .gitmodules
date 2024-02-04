@@ -1,0 +1,3 @@
+[submodule "Dg-git"]
+	path = Dg-git
+	url = git@github.com:Tek-Nonso/Dg-git.git
